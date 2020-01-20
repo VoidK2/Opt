@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Opt" targetName="Opt" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a70f8a83-5e70-4b24-8371-d76833a61e8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Opt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/0-1KPinstances.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/SKP1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/SKP1200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/SKP1500.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/SKP2000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/SKP800.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/UKP1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/UKP1200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/UKP1500.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/UKP2000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/UKP800.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/WKP1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/WKP1200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/WKP1500.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/WKP2000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bin/WKP800.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Matrix.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Matrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Sample.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Sample.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Solution.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/DataStructure/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Main/Control.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Main/Control.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Method/CrossEntropy.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Method/CrossEntropy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Method/Method.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Method/Method.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Kmedian.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Kmedian.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Knapsack.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Knapsack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/OneMax.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/OneMax.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Problem.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Problem/Problem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/RNG/RNG.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/RNG/RNG.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Opt.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Opt.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Opt.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/appendicitis.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/appendicitis_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/banana.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/banana_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/phoneme.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/phoneme_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/ring.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/dataset/ring_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/libOpt.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/appendicitis.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/appendicitis_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/banana.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/banana_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/phoneme.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/phoneme_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/ring.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/ring_description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WTTb1g3Avfjjq6RFfYQ0LPJepe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Opt" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-m CE -p Kmedian -f ring.dat" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Opt" TARGET_NAME="Opt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Opt" RUN_TARGET_NAME="Opt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a70f8a83-5e70-4b24-8371-d76833a61e8d" name="Default Changelist" comment="" />
+      <created>1579172652284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579172652284</updated>
+      <workItem from="1579172653555" duration="606000" />
+      <workItem from="1579185327673" duration="3905000" />
+      <workItem from="1579329624034" duration="824000" />
+      <workItem from="1579338731805" duration="6006000" />
+      <workItem from="1579417078107" duration="574000" />
+      <workItem from="1579417757226" duration="3614000" />
+      <workItem from="1579501257999" duration="2132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579502812958">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state x="125" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1216.781@0.0.1216.781" timestamp="1579502812958" />
+    <state x="141" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1579341577880" />
+    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1579504395926">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1216.781@0.0.1216.781" timestamp="1579504395926" />
+    <state x="466" y="192" key="FileChooserDialogImpl" timestamp="1579172764104">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1579172764104" />
+    <state x="460" y="302" key="Github.ShareDialog" timestamp="1579504228241">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state x="460" y="302" key="Github.ShareDialog/0.0.1216.781@0.0.1216.781" timestamp="1579504228241" />
+    <state x="397" y="110" key="Github.UntrackedFilesDialog" timestamp="1579504251330">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state x="397" y="110" key="Github.UntrackedFilesDialog/0.0.1216.781@0.0.1216.781" timestamp="1579504251330" />
+    <state width="1172" height="215" key="GridCell.Tab.0.bottom" timestamp="1579504396046">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state width="1172" height="215" key="GridCell.Tab.0.bottom/0.0.1216.781@0.0.1216.781" timestamp="1579504396046" />
+    <state width="1324" height="249" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579348234452" />
+    <state width="1172" height="215" key="GridCell.Tab.0.center" timestamp="1579504396046">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state width="1172" height="215" key="GridCell.Tab.0.center/0.0.1216.781@0.0.1216.781" timestamp="1579504396046" />
+    <state width="1324" height="249" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1579348234451" />
+    <state width="1172" height="215" key="GridCell.Tab.0.left" timestamp="1579504396046">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state width="1172" height="215" key="GridCell.Tab.0.left/0.0.1216.781@0.0.1216.781" timestamp="1579504396046" />
+    <state width="1324" height="249" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1579348234449" />
+    <state width="1172" height="215" key="GridCell.Tab.0.right" timestamp="1579504396046">
+      <screen x="0" y="0" width="1216" height="781" />
+    </state>
+    <state width="1172" height="215" key="GridCell.Tab.0.right/0.0.1216.781@0.0.1216.781" timestamp="1579504396046" />
+    <state width="1324" height="249" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1579348234451" />
+    <state x="186" y="79" key="SettingsEditor" timestamp="1579329715721">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1579329715721" />
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1579338935654">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1579338935654" />
+  </component>
+</project>

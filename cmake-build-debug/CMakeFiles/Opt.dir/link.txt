@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Opt.dir/objects.a
+C:\Qt\Qt5.9.8\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\Opt.dir/objects.a @CMakeFiles\Opt.dir\objects1.rsp
+C:\Qt\Qt5.9.8\Tools\mingw530_32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Opt.dir/objects.a -Wl,--no-whole-archive  -o Opt.exe -Wl,--out-implib,libOpt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Opt.dir\linklibs.rsp
