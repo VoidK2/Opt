@@ -135,6 +135,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\13994\Documents\CLion_Project\Opt" />
+        <option value="C:\Users\13994\Documents\CLion_Project\Opt\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WTTb1g3Avfjjq6RFfYQ0LPJepe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -203,10 +211,10 @@
     </state>
     <state x="125" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1216.781@0.0.1216.781" timestamp="1579502812958" />
     <state x="141" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1579341577880" />
-    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1579504395926">
+    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1579504433215">
       <screen x="0" y="0" width="1216" height="781" />
     </state>
-    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1216.781@0.0.1216.781" timestamp="1579504395926" />
+    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1216.781@0.0.1216.781" timestamp="1579504433215" />
     <state x="466" y="192" key="FileChooserDialogImpl" timestamp="1579172764104">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
